@@ -1,9 +1,9 @@
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
-<!-- <span align="center">
+<span align="center">
   <span>
-</span> -->
+</span>
 
 <!-- ABOUT YOU -->
 <hr>
