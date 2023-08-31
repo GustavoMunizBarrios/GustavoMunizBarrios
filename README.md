@@ -7,7 +7,7 @@
 
 <!-- ABOUT YOU -->
 <hr>
-<h4 align="center">Hi! I'm Gustavo Muñiz</h4>
+<h3 align="center">Hi! I'm Gustavo Muñiz</h3>
 <h4>Hi! I'm Gustavo Muñiz</h4>
 <h3 align="center">I love to face challenges and solve problems</h3>
   <ul>
