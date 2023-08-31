@@ -3,8 +3,8 @@
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
-    <h5 align="center">Hi! I'm Gustavo Muñiz</h5>
 </span>
+    <h5 align="center">Hi! I'm Gustavo Muñiz</h5>
 
 <!-- ABOUT YOU -->
 <hr>
