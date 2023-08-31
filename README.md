@@ -7,8 +7,9 @@
 
 <!-- ABOUT YOU -->
 <hr>
-<h3 align="center">I love to face challenges and solve problems</h3>
 <h4 align="center">Hi! I'm Gustavo Muñiz</h4>
+<h4>Hi! I'm Gustavo Muñiz</h4>
+<h3 align="center">I love to face challenges and solve problems</h3>
   <ul>
     <li>🔭 I'm currently working on freelance projects</li>
     <li>🌱 I'm currently learning more about UX/UI </li>
