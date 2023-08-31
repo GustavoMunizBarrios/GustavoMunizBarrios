@@ -4,10 +4,10 @@
 <span align="center">
   <span>
 </span>
-    <h5 align="center">Hi! I'm Gustavo Muñiz</h5>
 
 <!-- ABOUT YOU -->
 <hr>
+<h4 align="center">Hi! I'm Gustavo Muñiz</h4>
 <h3 align="center">I love to face challenges and solve problems</h3>
   <ul>
     <li>🔭 I'm currently working on freelance projects</li>
