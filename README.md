@@ -9,7 +9,6 @@
 <hr>
 <h3 align="center">Hi! I'm Gustavo Muñiz</h3>
 <h3 align="center">I love to face challenges and solve them with code and I'm passionate about functional design.</h3> 
-<br>
 <h3>I wrote my first line of code 11 years ago, and since then I haven't stopped learning. </h3>
   <ul>
     <li>🔭 I'm currently working on freelance projects</li>
