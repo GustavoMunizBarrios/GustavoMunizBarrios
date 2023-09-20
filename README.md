@@ -8,7 +8,7 @@
 <!-- ABOUT YOU -->
 <hr>
 <h3 align="center">Hi! I'm Gustavo Muñiz</h3>
-<h3 align="center">I love to face challenges and solve problems</h3>
+<h3 align="center">I love to face challenges and solve them with code and I am passionate about functional design.</h3>
   <ul>
     <li>🔭 I'm currently working on freelance projects</li>
     <li>🌱 I'm currently learning more about UX/UI </li>
