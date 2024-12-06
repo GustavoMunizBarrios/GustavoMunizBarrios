@@ -12,7 +12,7 @@
 <h3>I wrote my first line of code 11 years ago, and since then I haven't stopped learning. </h3>
   <ul>
     <li>🔭 I'm currently working on freelance projects</li>
-    <li>🌱 I'm currently learning more about UX/UI to improve my designs</li>
+    
     <li>📫 How to reach me <strong>j.gustavomb1984@hotmail.com</strong></li>
   </ul>
 
